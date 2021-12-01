@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thief01
+- 👋 Hi, I’m @thief01 irl Piotr Szulc
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning UNITY/C#.
 - 💞️ I’m looking to collaborate on ...
