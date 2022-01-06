@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning UNITY/C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Itch io: https://thief01.itch.io
 
 <!---
 thief01/thief01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
