@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thief01 irl Piotr Szulc
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning UNITY/C#.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Games/AI
+- 📫 How to reach me https://www.linkedin.com/in/kek666/
 - Itch io: https://thief01.itch.io
 
 <!---
