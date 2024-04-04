@@ -10,5 +10,5 @@ thief01/thief01 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=thief01&theme=algolia&show_icons=true)](https://https://github.com/thief01)
-[![thief01's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=thief01&hide=html,scss,stylus,blade,jupyter%20notebook,hlsl,shaderlab,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://https://github.com/thief01)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=thief01&theme=radical&show_icons=true)](https://https://github.com/thief01)
+[![thief01's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=thief01&hide=html,scss,stylus,blade,jupyter%20notebook,hlsl,shaderlab,css,shell,batchfile,dockerfile,typescript&theme=radical&show_icons=true&layout=donut)](https://https://github.com/thief01)
