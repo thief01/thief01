@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thief01 irl Piotr Szulc
 - 👀 I’m interested in game development, AI, mechatronic, #SpaceX.
 - 🌱 I’m currently learning AI and WEB APPS.
-- 💞️ I’m looking to collaborate on Games/AI
+
 - 📫 How to reach me https://www.linkedin.com/in/kek666/
 - ➡️ My YT channel: https://www.youtube.com/@thiefu01
 - 🎮 Itch io: https://thief01.itch.io
