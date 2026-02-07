@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thief01 irl Piotr Szulc
 - 👀 I’m interested in game development, AI, mechatronic, #SpaceX.
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning How to win life
 
 - 📫 How to reach me https://www.linkedin.com/in/kek666/
 - ➡️ My YT channel: [https://www.youtube.com/@thiefu01](https://www.youtube.com/@suri_666i)
